@@ -4,7 +4,7 @@ I’m building a Digital Attitude Indicator as a way to learn more about avionic
 
 My goals with this project are to:
 - Explore how attitude indicators work in aircraft.
-- Practice working with sensor fusion between accelerometers and gyroscopes.
+- Practice working with accelerometers and gyroscopes.
 - Gain experience driving small OLED displays with real-time data.
 - Create a simple, educational tool that could be expanded into more advanced avionics projects down the line.
 
